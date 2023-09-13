@@ -10,4 +10,4 @@ Non sempre un journal club è una soluzione a tutte le necessità, e  questo è 
 
 ##### Il primo post.
 
-[13-09-2023](/beautiful-jekyll/_posts/betabloccanti.md)
+[13-09-2023]({{ '/_posts/betabloccanti.md' | relative_url }})
