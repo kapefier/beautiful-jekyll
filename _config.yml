@@ -24,7 +24,7 @@ navbar-links:
   Risorse:
     - ESICM: "https://www.esicm.com"
     - SIAARTI: "https://www.siaarti.it/"
-  Author's home: "https://"
+#  Author's home: "https://"
 
 ################
 # --- Logo --- #
