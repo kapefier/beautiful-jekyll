@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Appunti di Medicina Intensiva
+subtitle: Le origini
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Ad un certo punto della sua storia professionale, una equipe multidisciplinare può avere necessità di scambiare rapidamente informazioni e punti di vista sugli avanzamenti delle varie discipline che convergono nella medicina intensiva.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Non sempre un journal club è una soluzione a tutte le necessità, e  questo è solo un esperimento.
 
-What else do you need?
+##### Il primo post.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[13-09-2023](/beautiful-jekyll/betabloccanti.md) 
